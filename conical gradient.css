@@ -1,0 +1,5 @@
+body{
+    background-image: conic-gradient(yellow,red,blue);
+    background-repeat: no-repeat;
+    height: 100vh;
+}

@@ -1,0 +1,42 @@
+body{
+    background-image: linear-gradient(to right,orange,red);
+}
+.a{
+    border: 2px solid white ;
+    background-color: white;
+    height: 8cm;
+    width: 20cm;
+    border-radius: 20px;
+    position: absolute;
+    top: 150px;
+    left: 300px;
+    z-index: 0;
+}
+.b{
+    background-image: linear-gradient(to right,orange,red);
+    height: 6cm;
+    width: 6cm;
+    border-radius: 20px;
+    position: absolute;
+    top: 190px;
+    left: 250px;
+    z-index: 1;
+}
+.c{
+    position: absolute;
+    left:300px;
+    top: 50px;
+}
+button{
+    width:3cm;
+    height:30px;
+    background-image: linear-gradient(to right,orange,red);
+    border: none;
+    border-radius: 15px;
+    color: white;
+}
+.d{
+    overflow-y: scroll;
+    height: 38px;
+    scroll-behavior: calc();
+}

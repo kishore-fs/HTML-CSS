@@ -1,0 +1,17 @@
+.backImg{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/147/545/208/nature-basket-apples-grapes-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100vh;
+}
+.templetBack{
+    background-image: url(https://c0.wallpaperflare.com/preview/546/399/675/seattle-united-states-pike-street-onions.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100vh
+}
+.imgOne{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}

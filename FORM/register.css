@@ -1,0 +1,50 @@
+body{ 
+    /* background-image: url(01.jpg); */
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     }
+ .regform{ 
+    width: 500px;
+     background-color: rgba(0,0,0,.5);
+      margin: 250px auto; 
+      color: rgb(247, 8, 8); 
+      padding: 10px 20px 30px;
+     }
+.regform h3{ 
+        color: brown;
+         text-align: center;
+          font-style: italic;
+         }
+         
+.regform .textlabel{
+     display: block;
+     }
+.input input{
+     width: 100%;
+     font-size: 1.5em;
+    padding: 10px 10px;
+ margin: 5px 0px 15px;
+  border-radius: 10px;
+ box-sizing: border-box;
+  box-shadow: 2px;
+   border-color: rgb(63, 62, 62);
+ } 
+ input:focus{ 
+    background-color: gray; 
+}
+ .btn{ 
+    text-align: center; 
+}
+ button{ 
+    background-color: gray;
+     color: white;
+     font-size: 30px;
+      margin-top: 20px;
+       border-radius: 10px;
+        padding: 5px 10px;
+         border: 2px solid gray;
+          box-shadow: 2px;
+           font-style: italic;
+         }
+          .radio{ 
+            accent-color: gray; 
+        }

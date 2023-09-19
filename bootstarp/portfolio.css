@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(to right,grey,rgb(140, 0, 255));
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.navbar{
+    background-image: linear-gradient(to right,grey,rgb(140, 0, 255));
+}
+a:hover{
+    border-bottom:2px solid white;
+    border-radius: 10px;
+}
+.homeHead{
+    margin-top: 5%;
+    margin-bottom: 10% ;
+}
+.pic{
+    height: 400px;
+}
+.pic:hover{
+    transform: scale(1.1);
+    background-color: black;
+}
+span{
+    color: white;
+}
+h1:hover{
+    transform: scale(1.1);
+}

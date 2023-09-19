@@ -1,0 +1,27 @@
+h1{
+    color: aquamarine;
+}
+body{
+    background-color: rgb(228, 43, 43);
+}
+button{
+    width: 176px;
+    padding: 3px;
+    background-color: aqua;
+    border: none;
+}
+p{
+    color: rgb(73, 194, 241);
+}
+.white{
+    background-color: white;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
+.box{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: aqua;
+
+}

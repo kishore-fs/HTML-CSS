@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vb;
+    font-size: 350px;
+    background-image: url(https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg?auto=compress&cs=tinysrgb&w=600);
+    color: white;
+}
+.box{
+    /* height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    padding: 10px; */
+    animation-name: box1;
+    animation-duration: 5s;
+    border-radius: 50%;
+    animation-iteration-count: infinite;
+}
+@keyframes box1 {
+    from{
+        transform: rotateX(90deg);
+    }
+    to{
+        transform: rotateY(10deg);
+    }
+}

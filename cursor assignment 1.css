@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(red,yellow,red);
+    height: 100vh;
+}
+.cursor_Pointer{
+    cursor: pointer;
+}
+.cursor_Help{
+    cursor: help;
+}
+.cursor_Move{
+    cursor: move;
+}
+.Wait{
+    cursor: wait;
+}

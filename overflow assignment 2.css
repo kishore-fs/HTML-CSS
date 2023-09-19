@@ -1,0 +1,12 @@
+body{
+    display: inline-flex;
+    position: absolute;
+    gap: 20px;
+} 
+.overFlow_Scroll{
+    background-image: linear-gradient(orange,yellow,orange);
+    overflow-y: scroll;
+    overflow-x: scroll;
+    width: 50%;
+    height: 300px;
+}

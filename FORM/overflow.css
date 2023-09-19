@@ -1,0 +1,33 @@
+body{
+    display: inline-flex;
+    position: absolute;
+    gap: 20px;
+}
+.overFlow_Visible{
+    overflow: visible;
+    background-image: linear-gradient(orange,yellow,orange);
+    width: 5cm;
+    height: 5cm;
+    border: 2px solid;   
+}
+.overFlow_Hidden{
+    overflow: hidden;
+    background-image: linear-gradient(orange,yellow,orange);
+    width: 5cm;
+    height: 5cm;
+    border: 2px solid; 
+}
+.overFlow_Srcoll{
+    overflow: scroll;
+    background-image: linear-gradient(orange,yellow,orange);
+    width: 5cm;
+    height: 5cm;
+    border: 2px solid; 
+}
+.overFlow_Auto{
+    overflow: auto;
+    background-image: linear-gradient(orange,yellow,orange);
+    width: 5cm;
+    height: 5cm;
+    border: 2px solid;
+}

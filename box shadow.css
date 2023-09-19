@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(218, 212, 212);
+    display: flex;
+    gap: 20px;
+}
+.first_box{
+    width: 6cm;
+    height: 6cm;
+    background-color: white;
+    margin-top: 200px;
+    margin-left: 300px;
+    border-radius: 20px;
+    box-shadow: 20px 20px 20px rgb(105, 104, 104);
+}
+.second_box{
+    width: 6cm;
+    height: 6cm;
+    background-color: white;
+    margin-top: 200px;
+    border-radius: 20px;
+    box-shadow: 20px 20px 20px rgb(105, 104, 104);
+}
+.third_box{
+    width: 6cm;
+    height: 6cm;
+    background-color: white;
+    margin-top: 200px;
+    border-radius: 20px;
+    box-shadow: 20px 20px 20px rgb(105, 104, 104);
+}
+.head_One{
+    margin-left: 60px;
+    color: rgb(189, 184, 184);
+}
+P{
+    font-size: 11px;
+    margin: 20px;
+    justify-content: center;
+    color: rgb(189, 184, 184);
+}
+.bar_One{
+    width: 5cm;
+    height: 15px;
+    background-image: linear-gradient(to right ,rgb(232, 255, 22),rgb(203, 238, 77));
+    margin-left: 20px;
+}
+.bar_Two{
+    width: 5cm;
+    height: 15px;
+    background-image: linear-gradient(to right ,rgb(29, 91, 133),rgb(75, 86, 150));
+    margin-left: 20px;
+}
+.bar_Three{
+    width: 5cm;
+    height: 15px;
+    background-image: linear-gradient(to right ,green,rgb(119, 180, 119));
+    margin-left: 20px;
+}

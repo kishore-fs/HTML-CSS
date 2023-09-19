@@ -1,0 +1,8 @@
+.linear_Right{
+    background-image: linear-gradient(to top right,green,yellow,red);
+    background-repeat: no-repeat;
+}
+.linear_left{
+    background-image: linear-gradient(to top left,green,yellow,red);
+    background-repeat: no-repeat;
+}

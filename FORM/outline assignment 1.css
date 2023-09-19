@@ -1,0 +1,74 @@
+.seprateOne{
+    display: flex;
+    gap: 10px;
+}
+.seprateTwo{
+    display: flex;
+    gap: 10px;
+}
+.seprateThree{
+    display: flex;
+    gap: 10px;
+}
+.boardOne{
+    border: 7px solid  green;
+    height: 40px;
+    width: 100px;
+    background-color: white;
+    font-size: 40px;
+}
+.boardTwo{
+    border: 7px dashed green ;
+    height: 40px;
+    width: 100px;
+    background-color: white;
+    font-size: 40px;
+}
+.boardThree{
+    border: 7px dotted green;
+    height: 40px;
+    width: 100px;
+    background-color: white;
+    font-size: 40px;
+}
+.boardFour{
+    border: 7px double green;
+    height: 40px;
+    width: 100px;
+    background-color: white;
+    font-size: 40px;
+}
+.boardFive{
+    border: 7px groove green;
+    height: 40px;
+    width: 100px;
+    background-color: white;
+    font-size: 40px;
+}
+.boardsix{
+    height: 40px;
+    width: 100px;
+    background-color: white;
+    font-size: 40px;
+}
+.boardSeven{
+    border: 7px ridge green;
+    height: 40px;
+    width: 100px;
+    background-color: white;
+    font-size: 40px;
+}
+.boardEight{
+    border: 7px inset green;
+    height: 40px;
+    width: 100px;
+    background-color: white;
+    font-size: 40px;
+}
+.boardNine{
+    border: 7px outset green;
+    height: 40px;
+    width: 100px;
+    background-color: white;
+    font-size: 40px;   
+}

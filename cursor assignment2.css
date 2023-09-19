@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to left bottom,rgb(189, 132, 27),rgb(255, 0, 0), rgb(179, 255, 0));
+    height: 100vh;
+}
+h1:hover{
+    cursor: alias;
+}
+h2:hover{
+    cursor: crosshair;
+}
+h3:hover{
+    cursor: grab;
+}
+h4:hover{
+    cursor: not-allowed;
+}
+.cursor:hover{
+    cursor: pointer;
+}
+div:hover{
+    cursor: zoom-in;
+}
+p:hover{
+    cursor: progress;
+}

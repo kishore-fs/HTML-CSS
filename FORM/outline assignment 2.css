@@ -1,0 +1,30 @@
+.boardOne{
+    border: 8px solid  green;
+    height: 60px;
+    width: 100%;
+}
+.boardTwo{
+    border: 8px dashed green ;
+    height: 60px;
+    width: 100%;
+}
+.boardThree{
+    border: 8px dotted green;
+    height: 60px;
+    width: 100%;
+}
+.boardFour{
+    border: 8px double green;
+    height: 60px;
+    width: 100%;
+}
+.boardFive{
+    border: 8px groove green;
+    height: 60px;
+    width: 100%;
+}
+.boardsix{
+    border: 8px outset green;
+    height: 60px;
+    width: 100%;
+}

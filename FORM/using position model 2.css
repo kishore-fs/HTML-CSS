@@ -1,0 +1,23 @@
+a{
+    text-decoration: none;
+    padding: 10px;
+}
+body{
+    background-image: linear-gradient(red,orangered);
+    position: sticky;
+
+}
+.aa{
+    position: sticky;
+    top: 0;
+    justify-content: space-evenly;
+    background-color: blue;
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    height: 15px;
+    
+}
+p{
+    text-align: justify;
+}

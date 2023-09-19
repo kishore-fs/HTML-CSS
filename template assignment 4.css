@@ -1,0 +1,77 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2017/12/13/22/01/asterisk-3017830_640.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 95vh;
+    color: white;
+}
+.head{
+    display: flex;
+    justify-content: space-evenly;
+}
+.head div{
+    display: flex;
+}
+.logo{
+    font-size: 50px;
+    margin: 0;
+}
+.logo::after{
+    content: ".";
+    color: red;
+}
+.head p{
+    width: 250px;
+}
+i{
+    margin-top: 3%;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    height: 50px ;
+    background-color: whitesmoke;
+    left: 15%;
+    position: absolute;
+    top: 15%;
+    border-radius: 30px;
+}
+.navigation{
+    display: flex;
+    color: black;
+    list-style: none;
+    gap: 15%;
+    padding: 15px;
+}
+.signIn{
+    display: flex;
+}
+i{
+    display: flex;
+    padding: 18px;
+}
+article{
+    position: absolute;
+    top: 35%;
+    left: 18%;
+}
+h2{
+    color: aqua;
+    text-transform: uppercase;
+    font-family:cursive;
+}
+.content{
+    font-size: xx-large;
+    text-transform: capitalize;
+    padding: 0;
+    margin: 0;
+}
+button{
+    width: 130px;
+    height: 40px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: transparent;
+    border: 2px solid grey;
+}

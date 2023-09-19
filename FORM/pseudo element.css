@@ -1,0 +1,34 @@
+
+header{
+    margin: 40px 100px;
+    background-color: rgb(241, 138, 11);
+    border: 2px dotted black;
+    padding: 50px;
+}
+.firstLine p::first-line{
+    color: red;
+    font-variant: small-caps;
+}
+.firstLetter p::first-letter{
+    color: red;
+    font-size: xx-large;
+}
+.multipleElement p::first-letter{
+    color: aqua;
+    font-size: xx-large;
+}
+.multipleElement p::first-line{
+    color: red;
+    font-variant: small-caps;
+}
+.beforeElement h1::before{
+    content:"(hello)";
+}
+::marker{
+    color: yellow;
+    font-size: xx-large;
+}
+.selectionElement p::selection{
+    background-color: red;
+    color: coral;
+}

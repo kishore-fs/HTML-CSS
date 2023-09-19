@@ -1,0 +1,73 @@
+body{
+    background-image: linear-gradient(rgba(0, 0, 0,0.6),rgba(73, 70, 70,0.6)), url(https://c4.wallpaperflare.com/wallpaper/503/737/250/digital-art-artwork-jungle-landscape-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100VH;
+   }
+   .section_Head{
+       border:1px solid purple;
+       width:150px;
+       text-align: center;
+       background-color: purple;
+       color:white;
+       font-size:30px;
+       border-radius: 5px;
+   }
+   .main_Section{
+       width:600px;
+       margin:10%;
+   }
+   
+   nav{
+       display:flex;
+       justify-content:end;
+       padding:20px;
+       opacity: 0.5;
+       background-color: black;
+   }
+   .section-para{
+       color:wheat ;
+       font-weight: bold;
+   }
+   a{
+       padding: 8px;
+       color:white;
+       text-decoration: none;
+   }
+   .section_Header{
+       font-size:40px;
+       color: white;
+       text-transform: uppercase;
+   }
+   button{
+       padding:8px;
+       background-color: purple;
+       border:none;
+       color:white;
+       border-radius: 5px;
+   }
+   p{
+       color:rgb(0, 0, 0);
+   }
+   .section_Rotate{
+       height:100px;
+       width:100px;
+       border:1px solid black;
+       position:relative;
+       left:900px;
+       top: -320px;
+       transform:rotate(45deg);
+       background-color: white;
+       border:none;
+       box-shadow: 10px 10px 10px 10px purple;
+   }
+   .rotate{
+       transform: rotate(-45deg);
+       margin:10px;
+       position: fixed;
+       bottom: 15px;
+       right:13px;
+       text-align: center;
+       font-size: 40px;
+       color: purple;
+       }

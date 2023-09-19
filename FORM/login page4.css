@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(241, 6, 124);
+}
+.full{
+    margin:400px;
+    margin-top: 50px;
+    background-color: white;
+}
+.tx input{
+    border: none;
+    width: 100%;
+    margin: 5px 0px 5px;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    outline: none;
+    background: transparent;
+    border-bottom: 2px solid rgb(241, 6, 124);
+}
+.btn{
+    text-align: center;
+    width: 525px;
+    background-color: rgb(241, 6, 124);
+    border: none;
+}

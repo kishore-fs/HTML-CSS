@@ -1,0 +1,19 @@
+h1{
+    color: aqua;
+}
+p{
+    background-color: blue;
+}
+h1{
+    color: red;
+}
+body h1{
+    color: brown;
+}
+.kis{
+    color: blue;
+}
+#aswin{
+    color: blueviolet;
+    font-size: 70pxb                                 ;
+}
